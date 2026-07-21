@@ -1,0 +1,5 @@
+Model,MAE,MSE,RMSE,R2,Training Time (s)
+Random Forest Regressor,0.3055,0.1658,0.4072,0.861,3.039
+Decision Tree Regressor,0.3898,0.2695,0.5191,0.774,0.015
+SVR,0.3386,0.1934,0.4398,0.8378,0.157
+Linear Regression,0.4149,0.2831,0.532,0.7626,0.059
